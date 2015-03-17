@@ -1,8 +1,6 @@
 # Raspberry Pi Install Commands and Tricks
 ## Use direct network connection
 
-
-
 ip=10.0.1.10
 ip=169.254.1.2
 

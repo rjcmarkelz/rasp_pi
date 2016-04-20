@@ -77,5 +77,11 @@ Works great!
 ##### OpenCV Install
 http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/
 
+#Above does not go into this
+sudo apt-get install python-opencv
+sudo apt-get install python-matplotlib
+pip install matplotlib
+everything working, but image processing slow
+openGL needs to be installed
 
 

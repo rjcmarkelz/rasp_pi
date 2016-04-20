@@ -74,4 +74,8 @@ Works great!
 
 ### update- ssh not working on 64 GB drive- host failure
 
+##### OpenCV Install
+http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/
+
+
 
